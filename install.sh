@@ -11,4 +11,4 @@ clear
 echo Launching MultiRPC...
 ./MultiRPC
 clear
-echo MultiRPC is running!
+echo MultiRPC is running
