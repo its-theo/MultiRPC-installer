@@ -1,7 +1,7 @@
 # MultiRPC-installer
 A short and easy install script for MultiRPC
 
-<h1> Getting started </h1>
+<h2> Getting started </h2>
 <p> First, download MultiRPC from <a href="https://github.com/FluxpointDev/MultiRPC/releases/download/V7-beta4/multirpc_v7_linux.tar.gz"> this link </a>. </p>
 
 Extract the file somewhere.
