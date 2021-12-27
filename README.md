@@ -12,6 +12,6 @@ When done, you run this command: `sudo bash install.sh`.
 
 Wait until it installs MultiRPC...
 
-And then you're done, enjoy CustomRPC!
+And then you're done, enjoy MultiRPC!
 
 > If there are any bugs, create an issue. Also, MultiRPC not working is not an issue in my script.
