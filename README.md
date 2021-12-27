@@ -9,6 +9,8 @@ Then open the console in the folder where you just extracted the archive, and ru
 
 When done, you run this command: `sudo bash install.sh`.
 
+Wait until it installs MultiRPC...
+
 And then you're done, enjoy CustomRPC!
 
 > If there are any bugs, create an issue.
