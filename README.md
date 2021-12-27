@@ -14,4 +14,4 @@ Wait until it installs MultiRPC...
 
 And then you're done, enjoy CustomRPC!
 
-> If there are any bugs, create an issue.
+> If there are any bugs, create an issue. Also, MultiRPC not working is not an issue in my script.
