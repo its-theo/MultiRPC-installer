@@ -6,7 +6,7 @@ A short and easy install script for MultiRPC
 
 Extract the file somewhere.
 
-Then open the console in the folder where you just extracted the archive, and run following command: `git clone https://github.com/evo0616lution/MultiRPC-installer.git`
+Then download this repository, extract it and place the content in the MultiRPC folder.
 
 When done, you run this command: `sudo bash install.sh`.
 
