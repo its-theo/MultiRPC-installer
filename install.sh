@@ -10,3 +10,5 @@ chmod +x MultiRPC
 clear
 echo Launching MultiRPC...
 ./MultiRPC
+clear
+echo MultiRPC is running!
